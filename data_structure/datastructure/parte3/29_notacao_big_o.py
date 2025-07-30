@@ -1,0 +1,1 @@
+# Este arquivo explica a notação Big O para complexidade de tempo e espaço.

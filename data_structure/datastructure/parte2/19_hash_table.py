@@ -1,0 +1,1 @@
+# Implementação básica de uma tabela hash e comparação com dicionários.

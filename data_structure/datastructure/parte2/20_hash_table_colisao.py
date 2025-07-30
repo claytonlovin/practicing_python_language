@@ -1,0 +1,1 @@
+# Este arquivo discute o tratamento de colisões em tabelas hash, utilizando encadeamento e endereçamento aberto.

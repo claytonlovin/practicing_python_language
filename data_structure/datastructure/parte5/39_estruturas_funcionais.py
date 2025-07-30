@@ -1,0 +1,1 @@
+# Este arquivo cobre estruturas funcionais, incluindo árvores imutáveis e monads em Python.

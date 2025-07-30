@@ -1,0 +1,1 @@
+# This file explains arrays in Python, including their implementation using lists and the `array` module.

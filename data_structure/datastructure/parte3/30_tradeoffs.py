@@ -1,0 +1,1 @@
+# This file discusses trade-offs between different data structures, such as lists vs sets and dicts vs trees.

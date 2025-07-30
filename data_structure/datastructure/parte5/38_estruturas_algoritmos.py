@@ -1,0 +1,1 @@
+# Este arquivo discute estruturas de dados utilizadas em algoritmos, incluindo busca, ordenação, mesclagem e divisão e conquista.

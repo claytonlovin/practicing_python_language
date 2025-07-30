@@ -1,0 +1,1 @@
+# Este arquivo discute estruturas de dados orientadas a objetos usando @dataclass, composição e herança.

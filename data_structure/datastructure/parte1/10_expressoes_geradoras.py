@@ -1,0 +1,1 @@
+# This file discusses generator expressions and their memory efficiency compared to lists.

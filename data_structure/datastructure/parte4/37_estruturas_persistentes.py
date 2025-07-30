@@ -1,0 +1,1 @@
+# Este arquivo cobre estruturas persistentes e imutáveis, como frozenset e immutables.Map.

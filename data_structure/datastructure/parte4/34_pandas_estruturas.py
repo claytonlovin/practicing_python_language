@@ -1,0 +1,1 @@
+# Este arquivo discute estruturas úteis no pandas, como Series e DataFrame.

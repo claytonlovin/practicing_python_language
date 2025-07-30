@@ -1,0 +1,1 @@
+# Este arquivo discute árvores balanceadas, incluindo árvores AVL e Red-Black.

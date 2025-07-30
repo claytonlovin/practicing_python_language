@@ -1,0 +1,1 @@
+# This file discusses optimizations with NumPy for matrices and vectors.

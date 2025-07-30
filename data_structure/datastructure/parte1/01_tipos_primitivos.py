@@ -1,0 +1,1 @@
+# This file contains information about the primitive data types in Python: int, float, str, bool, and None.

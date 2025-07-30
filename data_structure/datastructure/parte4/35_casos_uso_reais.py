@@ -1,0 +1,1 @@
+# Este arquivo fornece casos de uso reais para estruturas de dados, incluindo caching, filas de tarefas e grafos de dependência.
